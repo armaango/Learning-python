@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f166af7f-ce27-4468-9f93-0d848d152363" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assignment3_2.py" afterPath="$PROJECT_DIR$/Assignment3_2.py" />
     </list>
     <ignored path="LearningPythonFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -292,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1466374010108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1466374894962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1466374894962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
