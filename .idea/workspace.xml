@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f166af7f-ce27-4468-9f93-0d848d152363" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python Fundamentals 2.7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Python Fundamentals 2.7/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f166af7f-ce27-4468-9f93-0d848d152363" name="Default" comment="" />
     <ignored path="LearningPythonFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
