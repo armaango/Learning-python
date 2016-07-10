@@ -8,7 +8,7 @@ numCust = int(raw_input())
 earning = 0
 for x in range(0,numCust):
     size , price = (int (i) for i in raw_input().split())
-    if size in Counter(sizeList).keys():
+    if (size in sizeCounter.keys()) and (sizeCounter[size] > 0) :
         earning += price
-        print Counter(sizeList).values()
-        
+        sizeCounter[size] -=1
+print earning
